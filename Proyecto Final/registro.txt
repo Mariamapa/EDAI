@@ -1,0 +1,11 @@
+Lupita_Mapa	María1103	María	19	
+Maria_Mapa	Duvalinppinguin	María Guadalupe Martínez Pavón	19	
+Flor_Pequeña	ProgrameenPython	Flor Perez Sanchez 	18	
+Itzel_Mapa	Itzel1234	Itzel Martínez 	16	
+Kikis_Nun	FORTNITE23	Fátima Martínez 	13	
+youngdewanne	siempreserejoven	Bryan García	23	
+Prueba1	Essolounaprueba	Prueba 1 antes video 	18	
+Flor_Martínez	pureba video	Prueba video 	17	
+Prueba2:video	pruebavideo	Flor Martínez Prueba	17	
+Prueba de video 3 	programadoconpython	Prueba video final 3 	17	
+Preuba video final 4 	pruebavideo	Video Estructuras 4 	19 	
